@@ -1,0 +1,17 @@
+body{
+    background-color: #F3F3F3;
+    width: 100vw;
+    height: 100vw;
+}
+
+.header-container{display: flex;justify-content: space-between;width: calc(100% - 40px);}
+.header-container .header-container-left{display: flex;}
+.header-container .header-container-left .logo{display: flex;margin: 0 100px 0 20px;justify-content: center;align-items: center;}
+
+.header-container .header-container-left .logo img{}
+
+.header-container .header-container-right{display: flex;}
+
+.menu {}
+.menu nav {}
+.menu ul {padding: 0px; display: flex;}
